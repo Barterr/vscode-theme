@@ -583,7 +583,7 @@
       "settings": {
         "foreground": "#88ff00"
       }
-    }
+    },
     {
       "name": "[MARKDOWN] - Heading Punctuation",
       "scope": "punctuation.definition.heading.markdown",
