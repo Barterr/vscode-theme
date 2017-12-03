@@ -1,0 +1,22 @@
+{
+    "name": "black-theme",
+    "displayName": "black-theme",
+    "description": "",
+    "version": "1.0.0",
+    "publisher": "barterr",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Colorless",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colorless-color-theme.json"
+            }
+        ]
+    }
+}
